@@ -1,0 +1,66 @@
+{
+  "users": {
+    "28b807eb-51fa-4801-a61b-bdc64386f6db": {
+      "name": "Davi Spindola",
+      "username": "dkspin",
+      "email": "darkspindola@gmail.com",
+      "collections": {
+        "tracks": "/tracks/${uuid}",
+        "playlists": "/playlists/${uuid}",
+        "albums": "/albums/${uuid}"
+      }
+    },
+    "a5a2a1fc-5a66-46da-8200-b27fb455de28": {
+      "name": "Fabricio Alves",
+      "username": "faribs",
+      "email": "faribs@gmail.com",
+      "collections": {
+        "tracks": "/tracks/${uuid}",
+        "playlists": "/playlists/${uuid}",
+        "albums": "/albums/${uuid}"
+      }
+    }
+  },
+  "tracks": {
+    "28b807eb-51fa-4801-a61b-bdc64386f6db": {
+      "resources": [
+        {
+          "id": "cda4a3ac-254c-4724-825a-87cf821e5e39",
+          "title": "oh such princess",
+          "downloadUrl": ""
+        }
+      ],
+      "counter": 1
+    },
+    "a5a2a1fc-5a66-46da-8200-b27fb455de28": {
+      "resources": [
+        {
+          "id": "cda4a3ac-254c-4724-825a-87cf821e5e39",
+          "title": "untitled song",
+          "downloadUrl": ""
+        }
+      ],
+      "counter": 1
+    }
+  },
+  "playlists": {
+    "28b807eb-51fa-4801-a61b-bdc64386f6db": {
+      "resources": [],
+      "counter": 0
+    },
+    "a5a2a1fc-5a66-46da-8200-b27fb455de28": {
+      "resources": [],
+      "counter": 0
+    }
+  },
+  "albums": {
+    "28b807eb-51fa-4801-a61b-bdc64386f6db": {
+      "resources": [],
+      "counter": 0
+    },
+    "a5a2a1fc-5a66-46da-8200-b27fb455de28": {
+      "resources": [],
+      "counter": 0
+    }
+  }
+}

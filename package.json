@@ -1,0 +1,16 @@
+{
+  "name": "fake-crud",
+  "version": "0.0.1",
+  "private": true,
+  "files": [
+    "db.json"
+  ],
+  "author": {
+    "email": "darkspindola@gmail.com",
+    "name": "dkspindola",
+    "url": "https://github.com/d-spindola"
+  },
+  "scripts": {
+    "print": "cat db.json | jq ."
+  }
+}
